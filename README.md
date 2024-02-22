@@ -5,7 +5,9 @@ This is the kit that upgrades the popular Elmo TRV16H scanner with the RPI HD ca
 The kit enables the Elmo TRV16H projector to run at 1440x1080 resolution which is a significant improvement  
 from the  original 400 lines of vertical resolution.  
 The modification kit uses the state of the art components and included the RPI4 computer with the HD video camera.  
-The combined video and audio are available over the HDMI cable which can be connected to the HDMI monitor and or an external video recorder.  
+The combined video and audio are available over the HDMI cable which can be connected to the HDMI monitor and or an external video recorder.
+For users that want to record to a VCR there is a converter that converts the HDMI to Composite NTSC to PAL video.
+https://www.amazon.com/Converter-Composite-Adapter-Supports-Chromecast/dp/B08CH91V1W/
 The real time video plus audio can also be  recorded to the internal 256GB SD micro card.  
 The video recording as well as the exposure settings are controlled by two switches which mount in place of the old video color control switches.  
 Under normal operation, no RPI experience is needed but with some basic computer skills many more features became available  
